@@ -34,10 +34,16 @@ I am a positive and collaborative person, fully committed to every project I joi
 I enjoy teamwork, technical challenges, and delivering solutions with real business impact.
 
 ## Professional image
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ViorelGilRuiz/ViorelGilRuiz/main/assets/photo-office.jpg" alt="Viorel in professional environment" width="280" />
-  <img src="https://raw.githubusercontent.com/ViorelGilRuiz/ViorelGilRuiz/main/assets/photo-outdoor-sunglasses.jpg" alt="Viorel personal photo" width="280" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/ViorelGilRuiz/ViorelGilRuiz/main/assets/photo-office.jpg" alt="Viorel in professional environment" height="320" />
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/ViorelGilRuiz/ViorelGilRuiz/main/assets/photo-outdoor-sunglasses.jpg" alt="Viorel personal photo" height="320" />
+    </td>
+  </tr>
+</table>
 
 ## Featured project
 ### FitMenu AI Studio

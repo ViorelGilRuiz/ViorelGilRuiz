@@ -34,10 +34,16 @@ Soy una persona alegre y cercana, me involucro al 100% en cada proyecto y disfru
 Me motivan los retos tecnicos y aportar soluciones con impacto real en negocio.
 
 ## Imagen profesional
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ViorelGilRuiz/ViorelGilRuiz/main/assets/photo-office.jpg" alt="Viorel en entorno profesional" width="280" />
-  <img src="https://raw.githubusercontent.com/ViorelGilRuiz/ViorelGilRuiz/main/assets/photo-outdoor-sunglasses.jpg" alt="Viorel - foto personal" width="280" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/ViorelGilRuiz/ViorelGilRuiz/main/assets/photo-office.jpg" alt="Viorel en entorno profesional" height="320" />
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/ViorelGilRuiz/ViorelGilRuiz/main/assets/photo-outdoor-sunglasses.jpg" alt="Viorel - foto personal" height="320" />
+    </td>
+  </tr>
+</table>
 
 ## Proyecto destacado
 ### FitMenu AI Studio
