@@ -6,33 +6,16 @@
 </p>
 
 <p align="center">
-  <img src="./assets/cover-microservices.png" alt="Cover - Angular, TypeScript, Node, Microservices" width="100%" />
+  <img src="https://raw.githubusercontent.com/ViorelGilRuiz/ViorelGilRuiz/main/assets/cover-microservices.png" alt="Cover - Angular, TypeScript, Node, Microservices" width="100%" />
 </p>
 
-<table align="center">
-  <tr>
-    <td width="220" align="center" valign="top">
-      <img src="./assets/profile-viorel.jpg" alt="Viorel Gil Ruiz" width="180" />
-      <br /><br />
-      <img src="https://komarev.com/ghpvc/?username=ViorelGilRuiz&label=Visitas&color=0e75b6&style=flat" alt="profile views" />
-    </td>
-    <td valign="top">
-
-### Sobre mi
-Soy una persona alegre, cercana y muy implicada en cada proyecto.
-Me gusta trabajar en equipo, aportar soluciones y asumir retos tecnicos con responsabilidad.
-
-### Experiencia clave
-- 2 anos de experiencia en Angular (frontend orientado a producto).
-- 2 anos en arquitectura de microservicios y APIs REST.
-- Experiencia backend con Java y Python.
-- Enfoque en calidad de codigo, arquitectura limpia y entrega continua.
-
-</td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/148879378?v=4" alt="Viorel Gil Ruiz" width="170" />
+  <img src="https://avatars.githubusercontent.com/u/148879378?v=4&s=460" alt="Viorel Gil Ruiz portrait" width="170" />
+</p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ViorelGilRuiz&label=Visitas&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/badge/Open%20to%20Work-SI-2ea44f?style=for-the-badge" alt="open to work" />
   <img src="https://img.shields.io/badge/Angular-2%20anos-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular" />
   <img src="https://img.shields.io/badge/Microservicios-2%20anos-1f6feb?style=for-the-badge" alt="microservices" />
@@ -40,6 +23,16 @@ Me gusta trabajar en equipo, aportar soluciones y asumir retos tecnicos con resp
 </p>
 
 ---
+
+## Sobre mi
+Soy una persona alegre, cercana y muy implicada en cada proyecto.
+Me gusta trabajar en equipo, aportar soluciones y asumir retos tecnicos con responsabilidad.
+
+## Experiencia clave
+- 2 anos de experiencia en Angular (frontend orientado a producto).
+- 2 anos en arquitectura de microservicios y APIs REST.
+- Experiencia backend con Java y Python.
+- Enfoque en calidad de codigo, arquitectura limpia y entrega continua.
 
 ## Proyecto destacado
 ### FitMenu AI Studio

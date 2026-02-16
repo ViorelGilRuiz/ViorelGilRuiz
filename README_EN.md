@@ -6,33 +6,16 @@
 </p>
 
 <p align="center">
-  <img src="./assets/cover-microservices.png" alt="Cover - Angular, TypeScript, Node, Microservices" width="100%" />
+  <img src="https://raw.githubusercontent.com/ViorelGilRuiz/ViorelGilRuiz/main/assets/cover-microservices.png" alt="Cover - Angular, TypeScript, Node, Microservices" width="100%" />
 </p>
 
-<table align="center">
-  <tr>
-    <td width="220" align="center" valign="top">
-      <img src="./assets/profile-viorel.jpg" alt="Viorel Gil Ruiz" width="180" />
-      <br /><br />
-      <img src="https://komarev.com/ghpvc/?username=ViorelGilRuiz&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-    </td>
-    <td valign="top">
-
-### About me
-I am a positive, collaborative person who gets fully involved in every project.
-I enjoy teamwork, solving real problems, and taking technical challenges with commitment.
-
-### Key experience
-- 2 years of Angular experience (product-oriented frontend).
-- 2 years working with microservices architecture and REST APIs.
-- Backend experience with Java and Python.
-- Strong focus on code quality, clean architecture, and reliable delivery.
-
-</td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/148879378?v=4" alt="Viorel Gil Ruiz" width="170" />
+  <img src="https://avatars.githubusercontent.com/u/148879378?v=4&s=460" alt="Viorel Gil Ruiz portrait" width="170" />
+</p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ViorelGilRuiz&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/badge/Open%20to%20Work-YES-2ea44f?style=for-the-badge" alt="open to work" />
   <img src="https://img.shields.io/badge/Angular-2%20years-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular" />
   <img src="https://img.shields.io/badge/Microservices-2%20years-1f6feb?style=for-the-badge" alt="microservices" />
@@ -40,6 +23,16 @@ I enjoy teamwork, solving real problems, and taking technical challenges with co
 </p>
 
 ---
+
+## About me
+I am a positive, collaborative person who gets fully involved in every project.
+I enjoy teamwork, solving real problems, and taking technical challenges with commitment.
+
+## Key experience
+- 2 years of Angular experience (product-oriented frontend).
+- 2 years working with microservices architecture and REST APIs.
+- Backend experience with Java and Python.
+- Strong focus on code quality, clean architecture, and reliable delivery.
 
 ## Featured project
 ### FitMenu AI Studio
