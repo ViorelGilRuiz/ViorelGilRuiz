@@ -1,50 +1,40 @@
-﻿<h1 align="center">Viorel Gil Ruiz</h1>
-<h3 align="center">Angular Frontend Â· Microservices Â· Java Â· Python</h3>
+﻿# Viorel Gil Ruiz
+### Angular Frontend | Microservices | Java | Python
 
-<p align="center">
-  <a href="./README.md"><b>VersiÃ³n en EspaÃ±ol</b></a>
-</p>
+[Version en Espanol](./README.md)
 
-<p align="center">
-  <img src="./assets/github-profile-banner.svg" alt="Viorel Gil Ruiz - Full Stack Profile Banner" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ViorelGilRuiz&label=Profile%20Views&color=1f6feb&style=flat" alt="views" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-YES-2ea44f?style=flat" alt="open-to-work" />
-  <img src="https://img.shields.io/badge/Angular-2%20years-dd0031?style=flat&logo=angular" alt="angular" />
-  <img src="https://img.shields.io/badge/Microservices-2%20years-2563eb?style=flat" alt="microservices" />
-  <img src="https://img.shields.io/badge/Location-Zaragoza-6f42c1?style=flat" alt="location" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=ViorelGilRuiz&label=Profile%20Views&color=1f6feb&style=flat)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-YES-2ea44f?style=flat)
+![Angular](https://img.shields.io/badge/Angular-2%20years-dd0031?style=flat&logo=angular)
+![Microservices](https://img.shields.io/badge/Microservices-2%20years-2563eb?style=flat)
+![Location](https://img.shields.io/badge/Location-Zaragoza-6f42c1?style=flat)
 
 ---
 
-## Executive summary
-Software engineer focused on product delivery, user experience, and scalable architecture.
+## Professional summary
+Software engineer focused on product delivery and user experience.
 I build full-stack solutions with Angular and Java/Python backend services, aligned with business outcomes.
 
-## Value I bring
-- Modern Angular frontend with performance and maintainability.
-- Microservices and REST API architecture ready for product growth.
-- Team-first mindset: collaboration, communication, and ownership.
-- Professional delivery: clean code, strong structure, and impact orientation.
+## Highlighted experience
+- 2 years of Angular experience in business web applications.
+- 2 years of microservices and REST API experience.
+- Backend experience with Java and Python.
+- Strong focus on code quality, clean architecture, and maintainability.
 
-## Professional profile
-| Area | Experience |
-|---|---|
-| Frontend | 2 years Angular Â· 2 years Microservices |
-| Backend | Java Â· Python Â· REST APIs |
-| Soft skills | Teamwork Â· Initiative Â· Problem solving |
+## Value I bring
+- Modern Angular frontend with strong UX and performance.
+- Scalable architecture for product growth.
+- Team collaboration, ownership, and initiative.
+- Structured delivery focused on measurable impact.
 
 ## Featured project
 ### FitMenu AI Studio
-AI-powered nutrition platform with profile-based personalization, login flow, recommendations, and dynamic weekly planning.
-
-Implemented highlights:
-- Redesigned food-themed login UI.
-- Week-based dashboard navigation.
-- Dynamic AI guidance by day and by week.
-- Premium interactions and animations for better UX.
+AI-powered nutrition platform with:
+- login and user profile,
+- personalized recommendations,
+- dynamic weekly plans,
+- week-based dashboard navigation,
+- dynamic AI guidance by day and week.
 
 Repo: https://github.com/ViorelGilRuiz/FitMenu
 
