@@ -11,7 +11,6 @@
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/148879378?v=4" alt="Viorel Gil Ruiz" width="170" />
-  <img src="https://avatars.githubusercontent.com/u/148879378?v=4&s=460" alt="Viorel Gil Ruiz portrait" width="170" />
 </p>
 
 <p align="center">
@@ -24,15 +23,21 @@
 
 ---
 
-## About me
-I am a positive, collaborative person who gets fully involved in every project.
-I enjoy teamwork, solving real problems, and taking technical challenges with commitment.
-
-## Key experience
-- 2 years of Angular experience (product-oriented frontend).
+## Professional profile
+- 2 years of Angular experience building product-oriented frontend applications.
 - 2 years working with microservices architecture and REST APIs.
 - Backend experience with Java and Python.
 - Strong focus on code quality, clean architecture, and reliable delivery.
+
+## About me
+I am a positive and collaborative person, fully committed to every project I join.
+I enjoy teamwork, technical challenges, and delivering solutions with real business impact.
+
+## Professional image
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ViorelGilRuiz/ViorelGilRuiz/main/assets/photo-office.jpg" alt="Viorel in professional environment" width="280" />
+  <img src="https://raw.githubusercontent.com/ViorelGilRuiz/ViorelGilRuiz/main/assets/photo-outdoor-sunglasses.jpg" alt="Viorel personal photo" width="280" />
+</p>
 
 ## Featured project
 ### FitMenu AI Studio
@@ -44,10 +49,6 @@ AI-powered nutrition platform with profile-based personalization, login flow, re
 <p align="center">
   <img src="https://skillicons.dev/icons?i=angular,ts,js,nodejs,nestjs,java,python,spring,fastapi,mysql,postgres,mongodb,docker,git,github" />
 </p>
-
-## Presentation note
-I am looking for opportunities where I can contribute across frontend and backend in collaborative, product-driven teams.
-I am proactive, committed, and focused on delivering measurable value.
 
 ## Contact
 <p align="center">
