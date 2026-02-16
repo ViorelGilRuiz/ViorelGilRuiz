@@ -1,4 +1,3 @@
-﻿# Viorel Gil Ruiz
 ### Frontend Angular | Microservicios | Java | Python
 
 [English Version](./README_EN.md)
