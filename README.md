@@ -4,8 +4,8 @@
 
 ![Visitas](https://komarev.com/ghpvc/?username=ViorelGilRuiz&label=Visitas&color=1f6feb&style=flat)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-SI-2ea44f?style=flat)
-![Angular](https://img.shields.io/badge/Angular-2%20anos-dd0031?style=flat&logo=angular)
-![Microservicios](https://img.shields.io/badge/Microservicios-2%20anos-2563eb?style=flat)
+![Angular](https://img.shields.io/badge/Angular-2%20a%C3%B1os-dd0031?style=flat&logo=angular)
+![Microservicios](https://img.shields.io/badge/Microservicios-2%20a%C3%B1os-2563eb?style=flat)
 ![Ubicacion](https://img.shields.io/badge/Ubicacion-Zaragoza-6f42c1?style=flat)
 
 ---
@@ -15,8 +15,8 @@ Ingeniero de software orientado a producto y experiencia de usuario.
 Desarrollo soluciones full-stack con Angular y backend en Java/Python, enfocadas a resultados de negocio.
 
 ## Experiencia destacada
-- 2 anos de experiencia con Angular en aplicaciones web de negocio.
-- 2 anos de experiencia en microservicios y APIs REST.
+- 2 años de experiencia con Angular en aplicaciones web de negocio.
+- 2 años de experiencia en microservicios y APIs REST.
 - Experiencia en backend con Java y Python.
 - Trabajo con foco en calidad de codigo, arquitectura limpia y mantenibilidad.
 
