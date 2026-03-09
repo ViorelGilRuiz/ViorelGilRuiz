@@ -1,58 +1,49 @@
-﻿# Viorel Gil Ruiz
-### Angular Frontend | Microservices | Java | Python
+﻿<h1 align="center">Viorel Gil Ruiz</h1>
+<h3 align="center">Angular Frontend | Microservices | Java | Python</h3>
 
-[Version en Espanol](./README.md)
+<p align="center">
+  <a href="./README.md"><b>Versión en Español</b></a>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ViorelGilRuiz&label=Profile%20Views&color=1f6feb&style=flat)
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-YES-2ea44f?style=flat)
-![Angular](https://img.shields.io/badge/Angular-2%20years-dd0031?style=flat&logo=angular)
-![Microservices](https://img.shields.io/badge/Microservices-2%20years-2563eb?style=flat)
-![Location](https://img.shields.io/badge/Location-Zaragoza-6f42c1?style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ViorelGilRuiz&label=Profile%20Views&color=1f6feb&style=flat" alt="views" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-YES-2ea44f?style=flat" alt="open-to-work" />
+  <img src="https://img.shields.io/badge/Angular-2%20years-dd0031?style=flat&logo=angular" alt="angular" />
+  <img src="https://img.shields.io/badge/Microservices-2%20years-2563eb?style=flat" alt="microservices" />
+  <img src="https://img.shields.io/badge/Location-Zaragoza-6f42c1?style=flat" alt="location" />
+</p>
 
-<p>
+<p align="center">
   <a href="https://drive.google.com/file/d/1Lu8suYZvinG1Y29Lo1AaTux_j2-QXcs1/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/CV%20PDF-View%20on%20Google%20Drive-0f9d58?style=for-the-badge&logo=googledrive&logoColor=white" />
-  </a>
-  <a href="https://github.com/ViorelGilRuiz" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Professional%20Profile-111111?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/CV%20PDF-Google%20Drive-0f9d58?style=for-the-badge&logo=googledrive&logoColor=white" alt="cv" />
   </a>
   <a href="https://www.linkedin.com/in/viorel-gil-ruiz-alejos-65810a24b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://github.com/ViorelGilRuiz/FitMenu" target="_blank">
+    <img src="https://img.shields.io/badge/Featured%20Project-FitMenu%20AI-111111?style=for-the-badge&logo=github&logoColor=white" alt="fitmenu" />
   </a>
 </p>
 
 ---
 
-## CV PDF
-Direct access to my updated CV:
-- https://drive.google.com/file/d/1Lu8suYZvinG1Y29Lo1AaTux_j2-QXcs1/view?usp=sharing
-
-## Professional summary
+## About me
 Software engineer focused on product delivery and user experience.
-I build full-stack solutions with Angular and Java/Python backend services, aligned with business outcomes.
+I build full-stack solutions with Angular and Java/Python backend services, aligned with measurable business outcomes.
 
-## Highlighted experience
-- 2 years of Angular experience in business web applications.
-- 2 years of microservices and REST API experience.
-- Backend experience with Java and Python.
-- Strong focus on code quality, clean architecture, and maintainability.
+## Professional value
+- Modern Angular frontend with performance and maintainability.
+- Microservices and REST API architecture for scalable growth.
+- Strong team collaboration, ownership, and initiative.
+- Delivery focused on quality, structure, and technical clarity.
 
-## Value I bring
-- Modern Angular frontend with strong UX and performance.
-- Scalable architecture for product growth.
-- Team collaboration, ownership, and initiative.
-- Structured delivery focused on measurable impact.
+## Key experience
+- 2 years of Angular in business web applications.
+- 2 years working with microservices and REST APIs.
+- Backend development with Java and Python.
 
-## Featured project
-### FitMenu AI Studio
-AI-powered nutrition platform with:
-- login and user profile,
-- personalized recommendations,
-- dynamic weekly plans,
-- week-based dashboard navigation,
-- dynamic AI guidance by day and week.
-
-Repo: https://github.com/ViorelGilRuiz/FitMenu
+## Featured project: FitMenu AI Studio
+AI-powered nutrition platform with personalized recommendations, secure login, and dynamic weekly planning.
 
 ## Tech stack
 <p>
@@ -60,12 +51,4 @@ Repo: https://github.com/ViorelGilRuiz/FitMenu
 </p>
 
 ## Contact
-<p>
-  <a href="https://www.linkedin.com/in/viorel-gil-ruiz-alejos-65810a24b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:viorel.gil@example.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
+- Email: `viorel.gil@example.com`
