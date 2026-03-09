@@ -17,7 +17,15 @@
   <img src="https://img.shields.io/badge/UbicaciÃ³n-Zaragoza-6f42c1?style=flat" alt="ubicacion" />
 </p>
 
----
+<p align="center">
+  <a href="https://drive.google.com/file/d/1Lu8suYZvinG1Y29Lo1AaTux_j2-QXcs1/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/CV%20PDF-Ver%20en%20Google%20Drive-0f9d58?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV PDF" />
+  </a>
+</p>
+
+## CV en PDF
+Acceso directo al CV actualizado:
+- https://drive.google.com/file/d/1Lu8suYZvinG1Y29Lo1AaTux_j2-QXcs1/view?usp=sharing`r`n`r`n---
 
 ## Resumen ejecutivo
 Ingeniero de software con enfoque en producto, experiencia de usuario y arquitectura escalable.
@@ -62,3 +70,5 @@ Repo: https://github.com/ViorelGilRuiz/FitMenu
     <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+

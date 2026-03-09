@@ -17,7 +17,15 @@
   <img src="https://img.shields.io/badge/Location-Zaragoza-6f42c1?style=flat" alt="location" />
 </p>
 
----
+<p align="center">
+  <a href="https://drive.google.com/file/d/1Lu8suYZvinG1Y29Lo1AaTux_j2-QXcs1/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/CV%20PDF-View%20on%20Google%20Drive-0f9d58?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV PDF" />
+  </a>
+</p>
+
+## CV PDF
+Direct access to the updated CV:
+- https://drive.google.com/file/d/1Lu8suYZvinG1Y29Lo1AaTux_j2-QXcs1/view?usp=sharing`r`n`r`n---
 
 ## Executive summary
 Software engineer focused on product delivery, user experience, and scalable architecture.
@@ -62,3 +70,5 @@ Repo: https://github.com/ViorelGilRuiz/FitMenu
     <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+
