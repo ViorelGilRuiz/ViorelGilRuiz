@@ -9,7 +9,23 @@
 ![Microservices](https://img.shields.io/badge/Microservices-2%20years-2563eb?style=flat)
 ![Location](https://img.shields.io/badge/Location-Zaragoza-6f42c1?style=flat)
 
+<p>
+  <a href="https://drive.google.com/file/d/1Lu8suYZvinG1Y29Lo1AaTux_j2-QXcs1/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/CV%20PDF-View%20on%20Google%20Drive-0f9d58?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+  <a href="https://github.com/ViorelGilRuiz" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Professional%20Profile-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/viorel-gil-ruiz-alejos-65810a24b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 ---
+
+## CV PDF
+Direct access to my updated CV:
+- https://drive.google.com/file/d/1Lu8suYZvinG1Y29Lo1AaTux_j2-QXcs1/view?usp=sharing
 
 ## Professional summary
 Software engineer focused on product delivery and user experience.
