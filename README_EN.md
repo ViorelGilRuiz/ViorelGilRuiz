@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="./assets/github-profile-banner-v2.svg" alt="Viorel Gil Ruiz banner" width="100%" />
-</div>
-
-<div align="center">
 
 # Viorel Gil Ruiz
 
