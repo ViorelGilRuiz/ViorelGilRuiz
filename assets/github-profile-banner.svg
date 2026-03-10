@@ -18,9 +18,8 @@
     <path d="M92 0V360M236 0V360M380 0V360M524 0V360M668 0V360M812 0V360M956 0V360M1100 0V360"/>
   </g>
 
-  <text x="70" y="110" fill="#93DEFF" font-size="19" letter-spacing="2" font-family="Segoe UI, Arial, sans-serif">FRONTEND ANGULAR | FULL-STACK JUNIOR-MID</text>
-  <text x="70" y="172" fill="#EAF3FF" font-size="60" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Viorel Gil Ruiz</text>
-  <text x="70" y="220" fill="#B7CCE8" font-size="26" font-family="Segoe UI, Arial, sans-serif">Building products with TypeScript, NestJS, FastAPI and UX focus</text>
+  <text x="70" y="148" fill="#EAF3FF" font-size="60" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Viorel Gil Ruiz</text>
+  <text x="70" y="198" fill="#B7CCE8" font-size="26" font-family="Segoe UI, Arial, sans-serif">Building products with TypeScript, NestJS, FastAPI and UX focus</text>
 
   <rect x="70" y="254" width="284" height="56" rx="14" fill="url(#accent)"/>
   <text x="120" y="290" fill="#03223A" font-size="27" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Open to Work</text>
